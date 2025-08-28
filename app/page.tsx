@@ -223,7 +223,7 @@ export default function StaffSynkLanding() {
                                 size="lg"
                                 onClick={() =>
                                     (window.location.href =
-                                        "mailto:contact@synkflow.cloud")
+                                        "mailto:contact@synkflow.cloud?subject=Book%20a%20Demo&body=Hey,%0A%0AI%27m%20interested%20in%20learning%20more%20about%20StaffSynk.%20Please%20get%20in%20touch.%0A%0AThanks,")
                                 }>
                                 Book a Demo
                             </Button>
